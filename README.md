@@ -1,6 +1,6 @@
 ## Cutting planes separation with JuMP
 
-See blog post -> [http://sbebo.github.io/blog/blog/2015/06/10/julia/]
+See blog post -> http://sbebo.github.io/blog/blog/2015/06/10/julia/
 
 To run the Julia version:
 > julia run.jl
